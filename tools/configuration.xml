@@ -1,0 +1,7 @@
+<configuration>
+    <website>
+        <region>us-west-2</region>
+        <bucket>my_bucket</bucket>
+        <closure_version>v20220502</closure_version>
+    </website>
+</configuration>

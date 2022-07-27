@@ -1,0 +1,11 @@
+
+html {
+    font-family: 'Tw Cen MT Condensed Extra Bold', sans-serif;
+    -ms-text-size-adjust: 100%;         /* prevent text size expansion on mobile devices */
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
+    background-color: #444422;
+}

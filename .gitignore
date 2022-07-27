@@ -1,0 +1,10 @@
+*.pyc
+*.pyo
+.idea
+.project
+.pydevproject
+*.iml
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+.cache

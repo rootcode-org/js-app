@@ -1,0 +1,23 @@
+{
+  "esversion": 9,
+  "browser": true,
+  "devel": true,
+
+  "bitwise": false,
+  "latedef": false,
+  "singleGroups": false,
+  "unused": false,
+
+  "eqeqeq": true,
+  "forin": true,
+  "freeze": true,
+  "futurehostile": true,
+  "noarg": true,
+  "nocomma": true,
+  "nonbsp": true,
+  "nonew": true,
+  "undef": true,
+  "varstmt": true,
+
+  "sub": true
+}
